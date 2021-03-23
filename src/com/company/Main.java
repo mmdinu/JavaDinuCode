@@ -29,6 +29,8 @@ public class Main {
 
         System.out.println("New commit in git");
 
+        System.out.println(" Modific informatia in proiect");
+
 
 
 
