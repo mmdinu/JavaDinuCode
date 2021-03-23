@@ -27,6 +27,8 @@ public class Main {
         System.out.println("In " + c + " hours are " + c*d + " minutes ");
         System.out.println("And in " + c*d + " minutes are " + c*d*d + " minutes ");
 
+        System.out.println("New commit in git");
+
 
 
 
